@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Jun 03 09:37:58 UTC 2024","Mon Jun 03 09:38:05 UTC 2024","6993","tests.integration","test_tls","","","","test_deploy_active","Build the charm and deploy it."
+"skipped","Mon Jun 03 09:41:54 UTC 2024","Mon Jun 03 09:41:54 UTC 2024","0","tests.integration","test_subordinates","","","","test_deploy",""
+"skipped","Mon Jun 03 09:41:54 UTC 2024","Mon Jun 03 09:41:54 UTC 2024","0","tests.integration","test_subordinates","","","","test_scale_down",""
+"skipped","Mon Jun 03 09:41:54 UTC 2024","Mon Jun 03 09:41:54 UTC 2024","0","tests.integration","test_subordinates","","","","test_scale_up",""
